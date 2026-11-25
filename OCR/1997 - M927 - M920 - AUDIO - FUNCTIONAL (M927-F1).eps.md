@@ -1,5 +1,5 @@
 # 1997 - M927 - M920 - AUDIO - FUNCTIONAL (M927-F1).eps
-Wiki page: [M927](../../../PAGES/M927.md)
+Wiki page: [M927](../../../../PAGES/M927.md)
 
 
 - **Year:** 1997 (original file date 1997-12-03)
@@ -15,7 +15,7 @@ Wiki page: [M927](../../../PAGES/M927.md)
 
 ```json
 {
- "file": "Modules/UNSORTED/M927/1997 - M927 - M920 - AUDIO - FUNCTIONAL (M927-F1).eps",
+ "file": "Modules/UNSORTED/M927/SCHEMATICS/1997 - M927 - M920 - AUDIO - FUNCTIONAL (M927-F1).eps",
  "sha256": "f463282557d4f830f2c45c6eb8afef8fe561801e5a7406ef0b88cb9cdadd5736",
  "kind": "module",
  "models": [
