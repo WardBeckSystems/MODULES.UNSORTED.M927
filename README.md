@@ -20,10 +20,6 @@ _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the modu
 - [M927.kicad_sym](KICAD/M927.kicad_sym)
 - [index.html](KICAD/index.html)
 
-## Software
-
-- [index.html](SOFTWARE/index.html)
-
 ## 3-D model
 
 [`MECHANICAL/M927.stl`](MECHANICAL/M927.stl) (GitHub turns it in 3-D) · [view, change and generate it on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/2026/stl.html?m=M927)
