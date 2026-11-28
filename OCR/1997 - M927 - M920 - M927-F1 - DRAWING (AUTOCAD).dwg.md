@@ -567,7 +567,7 @@ SSSW(
 
 ```json
 {
- "file": "Modules/UNSORTED/M927/MECHANICAL/1997 - M927 - M920 - M927-F1 - DRAWING (AUTOCAD).dwg",
+ "file": "Modules/RENAISSANCE/M927/MECHANICAL/1997 - M927 - M920 - M927-F1 - DRAWING (AUTOCAD).dwg",
  "sha256": "c25b8dca0bebd54c17f2e51e24111e25dd50d219bd7a608e47be43c4249d350d",
  "kind": "module",
  "models": [
