@@ -1,6 +1,6 @@
 # M927 · Renaissance
 
-Ward-Beck Systems M927, 1997|30. Wiki page: [M927 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M927.html)
+Ward-Beck Systems M927, 1997|30. Wiki page: [M927 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.RENAISSANCE.M927/)
 
 | Folder | What is in it | Files |
 |---|---|---|
